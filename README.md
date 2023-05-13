@@ -1,4 +1,4 @@
-# BlenderPyB Depth Map Script
+# BlenderPy Depth Map Script
 (NOTE:UNTESTED AI GENERATED CODE AS OF POSTING)
 
 This is a Python script for Blender that imports a depth map image as a plane and applies displacement and adaptive subdivision to create a 3D surface.
