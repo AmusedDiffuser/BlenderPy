@@ -1,4 +1,6 @@
-# Depthify: Create realistic and stunning 3D surfaces from depth map images in Blender.
+# Depthify v1.1: Bing explains: is a continuation of the code revision that adds some docstrings and comments to explain how the code revision works:
+#according to bing 1.0 rewrite represents the: next logical revision for the existing script that would implement as much as possible of what we’ve discussed, while keeping the complexity of the changes minimal
+#Create realistic and stunning 3D surfaces from depth map images in Blender.
 # This script imports and transforms a depth map image into a 3D surface in Blender.
 # It uses some modules and features such as bpy, numpy, argparse, etc. to enhance the quality, usability, and functionality of the script.
 
